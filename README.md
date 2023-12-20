@@ -31,4 +31,10 @@ Le joueur qui a élaboré la combinaison secrète révèle le code et la manche 
 ## Comment gagner au Mastermind :
 Le gagnant d’une partie de Mastermind est celui qui a gagné le plus de manches selon le nombre préalablement établis.
 
- 
+## Autres : 
+couleurs = ['jaune', 'bleu', 'rouge', 'vert', 'blanc', 'noir']
+pionts = ['bon et mal placé','bon et bien placé']
+
+
+
+
